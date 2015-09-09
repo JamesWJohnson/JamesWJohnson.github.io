@@ -5,6 +5,10 @@ tagline: I hate computers
 ---
 {% include JB/setup %}
 
+This is the closest thing I have to a website.
+
+[My PGP Key](James_Johnson_pub.asc)
+
 
 <ul class="posts">
   {% for post in site.posts %}
