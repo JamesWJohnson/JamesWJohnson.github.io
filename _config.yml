@@ -11,11 +11,11 @@ highlighter: pygments
 title : Semi-Pro Beaglebone Bricker
 tagline: Site Tagline
 author : James Johnson
-  name : James Johnson
-  email : clayshooter811@gmail.com
+  name : "James Johnson"
+  email : "clayshooter811@gmail.com"
   github : JamesWJohnson.github.com
   twitter : James_Johnson
-#  feedburner : feedname
+  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
