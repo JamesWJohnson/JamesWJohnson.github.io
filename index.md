@@ -1,7 +1,7 @@
 ---
 layout: page
-title: JamesWJohnson.github.io
-tagline: Supporting tagline
+title: Semi-Pro Beaglebone Bricker
+tagline: I hate computers
 ---
 {% include JB/setup %}
 
