@@ -5,7 +5,7 @@ tagline: I hate computers
 ---
 {% include JB/setup %}
 
-This is the closest thing I have to a website.
+My name is James Johnson. I have a PhD in Computer Science. I work for [a startup](http://www.synercontechnologies.com). This is my website. 
 
 [My PGP Key](James_Johnson_pub.asc)
 
